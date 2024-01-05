@@ -1,0 +1,22 @@
+.aboutsection {
+    display:flex;
+    flex-direction: column;
+    margin: 50px;
+    font-family: Martian Mono;
+    font-size: 17px;
+    color: rgb(188, 224, 255);
+    border: 5px solid rgb(188, 224, 255);
+    padding: 30px;
+    max-width: 900px;
+    border-radius: 30px;
+}
+
+#infotable{
+    text-align: center;
+    margin-top: 45px;
+    max-width: 900px;
+}
+
+td{
+    padding: 10px;
+}
